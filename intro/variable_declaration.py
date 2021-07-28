@@ -1,6 +1,7 @@
 """
 # Variable names are case-sensitive
 """
+print('hello world')
 print("__________________________Assign Value______________________________________________________")
 x = 1                       # x is an integer
 print(type(x))
